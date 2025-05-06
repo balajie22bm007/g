@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main (){
+    int num= 1000;
+    if (num >100){ 
+        printf(" the given number is greater the value. \n");
+        }else{            
+        printf("the given number is less than the value.\n");
+        }
+    return 0;
+ }
+
