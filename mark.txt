@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main (){
+   int marks =100;
+   if (marks >=100)  {
+    printf ("grad: a\n");
+   }
+   else if (marks>=80){
+       printf ("grade: b\n");
+   }else if (marks>=60){
+        printf ("grade: c\n");
+ }else{
+               
+ }
+   return 0;
+   }
