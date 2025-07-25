@@ -1,0 +1,16 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+
+int main() {
+   int a,b;
+   printf("enter two number:");
+   scanf("%d",&a,&b);
+   if (a>b){
+      
+       printf("%d is large \n",b);
+       
+   }else if (b>a){
+      printf ("Both number are equal\n"); 
+   }
+   return 0;
+   }
